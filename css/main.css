@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+body{
+    font-family: 'Noto Sans', sans-serif;
+}
+      /* Navbar */
+.title{
+background-color: black;
+text-align: center;
+margin: 0px;
+float: left;
+font-size: 1.5rem;
+padding: 15px 15px 15px;
+color: white;
+font-family: 'Noto Sans', sans-serif;
+}
+.navbar{
+    padding: 0;
+}
+.header-bar{
+    background-color: black;
+    margin: 0;
+    padding: 0 0 10px;
+}
+.form-search{
+margin: 10px auto 0
+}
+.dropdown{
+    float: left;
+}
+.form-search-input{
+width: 600px;
+}
+
+.links{
+    font-size: 1.25rem;
+    margin: 20px;
+    padding: 0 0 5px;
+}
+.cart-icon{
+color: white;
+padding: 5px 10px 0;
+}
+ 
+/* Shipping-info */
+.shipping-info{
+    text-align: center;
+    background-color: rgb(152, 194, 194);
+}
+.shipping-info-text{
+    padding: 15px 0;
+    color: rgb(3, 46, 42);
+    font-weight: 900;
+}
