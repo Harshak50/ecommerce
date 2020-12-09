@@ -28,7 +28,7 @@ margin: 10px auto 0
     float: left;
 }
 .form-search-input{
-width: 600px;
+    width: 40vw;
 }
 
 .links{
@@ -50,4 +50,12 @@ padding: 5px 10px 0;
     padding: 15px 0;
     color: rgb(3, 46, 42);
     font-weight: 900;
+}
+
+/* ...........banner .......................*/
+
+.banner-container img{
+    height:20rem;
+    width:100vw;
+    object-fit:cover;
 }
